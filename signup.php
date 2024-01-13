@@ -47,10 +47,10 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     
     <nav>
         <ul>
-            <li><a href="homepage.html">Home</a></li>
-            <li><a href="map.html">Map</a></li>
-            <li><a href="login.html">Login</a></li>
-            <li><a href="signup.html">Sign Up</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="map.php">Map</a></li>
+            <li><a href="login.php">Login</a></li>
+            <li><a href="signup.php">Sign Up</a></li>
         </ul>
     </nav>
     <body style="font-family: tahoma; background-color: #e9ebee;">

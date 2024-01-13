@@ -1,9 +1,14 @@
-<?php
-include('db1.php');
-?>
+
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
+    <style>
+        body{
+            background-image: url('ambulance.jpeg');
+            background-size: 100%;
+        }
+        </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
@@ -22,9 +27,9 @@ include('db1.php');
     </ul>
 </nav>
 <div id="ambulance">
-    <img src="ambulance.png" alt="Ambulance Image">
+    
 </div>
-<a href="login.php">Logout</a>
+<!--<a href="login.php">Logout</a>-->
 
 <footer>
     <p>&copy; 2024 Ambulance Tracking System</p>
