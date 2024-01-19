@@ -53,7 +53,6 @@ document.getElementById('Passworderror').innerHTML="Password is too short";
 else{
     document.getElementById('Passworderror').innerHTML="";
 }
-
 //Confirm password
 
 var CPassword=document.getElementById('CPassword');

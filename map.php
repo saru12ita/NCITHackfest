@@ -13,7 +13,6 @@ require 'db2.php';
     <header>
         <h1>Ambulance Tracking System</h1>
     </header>
-    
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>

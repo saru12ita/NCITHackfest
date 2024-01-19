@@ -1,6 +1,4 @@
-
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
     <style>
@@ -26,14 +24,11 @@
         <li><a href="signup.php">Sign Up</a></li>
     </ul>
 </nav>
-<div id="ambulance">
-    
+<div id="ambulance">   
 </div>
 <!--<a href="login.php">Logout</a>-->
-
 <footer>
     <p>&copy; 2024 Ambulance Tracking System</p>
 </footer>
-
 </body>
 </html>
